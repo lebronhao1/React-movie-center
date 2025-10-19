@@ -45,13 +45,6 @@ npm run test
 pnpm test
 ```
 
-Run tests in watch mode:
-
-```bash
-npm run test:watch
-# or
-pnpm test:watch
-```
 
 ## Building for Production
 
@@ -74,9 +67,3 @@ src/
 ├── App.tsx          # Main App component
 └── main.tsx         # Entry point
 ```
-
-## Responsive Breakpoints
-
-- 1200px: 3 columns
-- 768px: 2 columns
-- 480px: 1 column
